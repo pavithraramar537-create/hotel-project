@@ -12,24 +12,24 @@ function App() {
     },
     {
       id: 2,
-      name: "Dosa",
+      name: "Puttu",
       price: "₹80",
       img: "https://images.unsplash.com/photo-1630383249896-424e482df921?w=500",
-      desc: "Crispy masala dosa with sambar & chutney"
+      desc: "soft and sweet puttu"
     },
     {
       id: 3,
-      name: "Parotta",
+      name: "Samosa",
       price: "₹50",
       img: "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=500",
-      desc: "Soft layered parotta with salna"
+      desc: "Soft layered samosa with crispy"
     },
     {
       id: 4,
-      name: "Meals",
+      name: "Pulav",
       price: "₹120",
       img: "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=500",
-      desc: "Full south indian meals unlimited"
+      desc: "Full south indian pulav unlimited"
     },
     {
       id: 5,
@@ -40,10 +40,10 @@ function App() {
     },
     {
       id: 6,
-      name: "Chicken 65",
+      name: "Chicken gravy",
       price: "₹180",
       img: "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=500",
-      desc: "Spicy fried chicken 65 starter"
+      desc: "Spicy fried chicken starter"
     }
   ]
 
@@ -52,7 +52,7 @@ function App() {
       {/* Header */}
       <header className="header">
         <h1>🏨 PAVI HOTEL</h1>
-        <p>Rusi kanda idam soru kanda idam</p>
+        <p>where taste meets tradition</p>
       </header>
 
       {/* Food Grid */}
